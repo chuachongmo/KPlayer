@@ -1,0 +1,3 @@
+[submodule "KPlayer/RTSP2_test"]
+	path = KPlayer/RTSP2_test
+	url = https://github.com/lennoxtr/RTSP2_test.git
